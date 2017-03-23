@@ -13,3 +13,8 @@ p{font-family:helvetica;
  color:#FFF;
    text-align: center;
    background:#606060;}
+
+   ul{
+   	text-align:center;
+   	list-style-type: none;
+   }
