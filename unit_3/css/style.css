@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
 body {
 	background-size:cover;
    background: linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.4)),url("../images/santorini.jpg");
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Poppins', sans-serif;
    font-size:22px;
    color:#FFF;
    text-align: center;
 }
 
 p { 
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Poppins', sans-serif;
    font-size:22px;
    color:#FFF;
    text-align: center;
