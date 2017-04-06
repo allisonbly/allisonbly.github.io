@@ -1,16 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
-
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 body {
 	background-size:cover;
    background: linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.4)),url("../images/santorini.jpg");
-   font-family: 'Droid Serif', serif;
+   font-family: 'Indie Flower', cursive;
    font-size:22px;
    color:#FFF;
    text-align: center;
 }
 
 p { 
-   font-family: 'Droid Serif', serif;
+   font-family: 'Indie Flower', cursive;
    font-size:22px;
    color:#FFF;
    text-align: center;
