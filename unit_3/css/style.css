@@ -1,21 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+
 body {
 	background-size:cover;
-   background: url("https://allisonbly.github.io/unit_3/images/santorini.jpg");
-   font-family:helvetica;
+   background: linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.4)),url("../images/santorini.jpg");
+   font-family: 'Droid Serif', serif;
    font-size:22px;
- color:#FFF;
+   color:#FFF;
+   text-align: center;
+}
+
+p { 
+   font-family: 'Droid Serif', serif;
+   font-size:22px;
+   color:#FFF;
    text-align: center;
    background:#606060;
 }
 
-
-p{font-family:helvetica;
-   font-size:22px;
- color:#FFF;
-   text-align: center;
-   background:#606060;}
-
-   ul{
-   	text-align:center;
-   	list-style-type: none;
-   }
+ul{
+	text-align:center;
+	list-style-type: none;
+}
