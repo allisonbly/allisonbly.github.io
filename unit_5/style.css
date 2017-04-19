@@ -1,6 +1,6 @@
 
 nav {
-   background-color: #E8C66A
+   background-color: #E8C66A;
    border: 1px black solid;
    padding: 20px;
 }
@@ -17,7 +17,7 @@ section {
 }
 
 article {
-   background-color: #E89C6C
+   background-color: #E89C6C;
    border: 1px black solid;
    padding: 20px;
 }
